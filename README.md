@@ -1,4 +1,4 @@
-![image](https://github.com/neha13rana/Smart-E-VANET-For-Scheduling-and-Communication-_-SRS-Document/assets/121093178/11f3c8b0-8863-411b-8ff9-3d1f18f9e02c)# Smart E-VANET For Scheduling and Communication
+# Smart E-VANET For Scheduling and Communication
 **Objective:**
 
 - Develop a reliable E-VANET system for real-time communication among electric vehicles, traffic infrastructure, and management centers.
