@@ -46,7 +46,7 @@
 
 ![image](https://github.com/neha13rana/Smart-E-VANET-For-Scheduling-and-Communication-_-SRS-Document/assets/121093178/e36fa660-3b3a-4b6b-9fee-a9fb5972f13e)
 
-**State Diagram : **
+**State Diagram :**
 
 ![image](https://github.com/neha13rana/Smart-E-VANET-For-Scheduling-and-Communication-_-SRS-Document/assets/121093178/2fb8cac9-6a4a-41c5-aab0-93b808d85574)
 
